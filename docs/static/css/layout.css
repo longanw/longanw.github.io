@@ -1457,6 +1457,21 @@ div.spinner i:nth-child(8) {
 
 .address .footer-logo img {
   max-height: 35px;
+  filter: drop-shadow(0.5px 0.5px 0.5px #fff);
+  vertical-align: middle;
+}
+
+.address .footer-logo img:hover {
+/*  box-shadow: 15px 15px 20px rgba(50, 50, 50, 0.4);*/
+  transform: rotate(0deg) scale(1.50);
+  -webkit-transform: rotate(0deg) scale(1.50);
+  z-index: 2;
+  position: relative;
+  -webkit-transition: all 0.5s ease-in;
+  -moz-transition: all 0.5s ease-in;
+  -ms-transition: all 0.5s ease-in;
+  -o-transition: all 0.5s ease-in;
+  transition: all 0.5s ease-in;
 }
 
 .address .qr-code {
