@@ -1,6 +1,14 @@
 {
   "lists": [
       {
+        "number": "19",
+        "src": "picture/case/case-gz-huocun.jpg",
+        "title": "火村项目",
+        "date": "2023-01",
+        "description": "&emsp;&emsp;沟槽、卡压管材和管件",
+        "text": "&emsp;&emsp;316L不锈钢给水管、沟槽管件、法兰管件、卡压管件等。"
+  		},
+      {
         "number": "18",
         "src": "picture/case/case-hz-zuoyoujiaju.jpg",
         "title": "左右家居（惠州二期）",
