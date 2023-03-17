@@ -51,6 +51,11 @@
       "title": "GB/T 50378-2019《绿色建筑评价标准》"
         },
     {
+      "pic": "picture/std/GBT36019-2018_cover.jpg",
+      "src": "std%2F6ca9800937cf40f9b5f7493908eeb1df.pdf",
+      "title": "GB/T 36019-2018《沟槽式管路连接件技术规范》"
+	        },
+    {
       "pic": "picture/std/GBT12459-2017_cover.jpg",
       "src": "std%2F659a6d388ab0a2e1b4fcab940aa75fd6.pdf",
       "title": "GB/T 12459-2017《钢制对焊管件类型与参数》"
@@ -136,9 +141,9 @@
       "title": "SJG16-2017《优质饮用水工程技术规程》"
         },
     {
-    "pic": "picture/std/GB4806.9-2016_cover.jpg",
-    "src": "std%2F868d6a746fcf7b7592f26908a99c30e7.pdf",
-    "title": "GB 4806.9-2016《食品安全国家标准 食品接触用金属材料及制品》"
+      "pic": "picture/std/GB4806.9-2016_cover.jpg",
+      "src": "std%2F868d6a746fcf7b7592f26908a99c30e7.pdf",
+      "title": "GB 4806.9-2016《食品安全国家标准 食品接触用金属材料及制品》"
       },
     {
       "pic": "picture/std/TSG07-2019_cover.jpg",
@@ -171,6 +176,11 @@
       "title": "GB/T 9119-2010《板式平焊钢制管法兰》"
         },
     {
+      "pic": "picture/std/GBT196-2003_cover.jpg",
+      "src": "std%2Fc507a3dccd2fb043d74ab722d014a018.pdf",
+      "title": "GB/T 196-2003《普通螺纹 基本尺寸》"
+	        },
+    {
       "pic": "picture/std/GBT32569-2016_cover.jpg",
       "src": "std%2F6611c1251b062184e19adeac4e5a1d0c.pdf",
       "title": "GB/T 32569-2016《海水淡化装置用不锈钢焊接钢管》"
@@ -192,4 +202,3 @@
         }
     ]
 }
-
