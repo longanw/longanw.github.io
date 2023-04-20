@@ -1,6 +1,14 @@
 {
   "lists": [
     {
+      "title": "定制异径四通",
+      "src": "picture/pipe/961106502540.png"
+      },
+    {
+      "title": "定制异径三通",
+      "src": "picture/pipe/961106505030.png"
+      },
+    {
       "title": "法兰片",
       "src": "picture/pipe/640010010008.png"
     },
@@ -15,10 +23,6 @@
     {
       "title": "外牙对接",
       "src": "picture/pipe/640005005014.png"
-    },
-    {
-      "title": "外牙活接",
-      "src": "picture/pipe/640005005016.png"
     },
     {
       "title": "法兰大小头",
