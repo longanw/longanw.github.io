@@ -1,6 +1,22 @@
 {
   "lists": [
       {
+        "number": "22",
+        "src": "picture/case/case-sz-longguangtianjing.png",
+        "title": "前海龙光天镜",
+        "date": "2023-06",
+        "description": "&emsp;&emsp;分区共配置四套泵组，水泵均为二用一备组合，316L不锈钢管件",
+        "text": "&emsp;&emsp;316L不锈钢给水管、沟槽管件、法兰管件、卡压管件等。"
+  		},
+      {
+        "number": "21",
+        "src": "picture/case/case-sz-dayuecheng.jpg",
+        "title": "中粮大悦广场",
+        "date": "2023-06",
+        "description": "&emsp;&emsp;低中高区各配置一套泵组，水泵均为三用一备组合，316L不锈钢管件",
+        "text": "&emsp;&emsp;316L不锈钢给水管、沟槽管件、法兰管件、卡压管件等。"
+  		},
+      {
         "number": "20",
         "src": "picture/case/case-zs-mingyang.jpg",
         "title": "明阳智慧能源集团总部基地",

@@ -5,11 +5,11 @@
       "src": "picture/pipe/941105005010.png"
     },
     {
-      "title": "内牙直通",
+      "title": "内丝直通",
       "src": "picture/pipe/941105005011.png"
     },
     {
-      "title": "外牙直通",
+      "title": "外丝直通",
       "src": "picture/pipe/941105005013.png"
     },
     {
@@ -29,11 +29,11 @@
       "src": "picture/pipe/941103205030.png"
     },
     {
-      "title": "内牙三通",
+      "title": "内丝三通",
       "src": "picture/pipe/941105005031.png"
     },
     {
-      "title": "外牙三通",
+      "title": "外丝三通",
       "src": "picture/pipe/941105005033.png"
     },
     {
@@ -53,7 +53,7 @@
       "src": "picture/pipe/941105005051.png"
     },
     {
-      "title": "外牙活接",
+      "title": "外丝活接",
       "src": "picture/pipe/941105005081.png"
     },
     {
@@ -65,11 +65,11 @@
       "src": "picture/pipe/941105005099.png"
     },
     {
-      "title": "90°内牙弯头",
+      "title": "90°内丝弯头",
       "src": "picture/pipe/941105005091.png"
     },
     {
-      "title": "90°外牙弯头",
+      "title": "90°外丝弯头",
       "src": "picture/pipe/941105005093.png"
     },
     {
@@ -77,7 +77,7 @@
       "src": "picture/pipe/941105003270.png"
     },
     {
-      "title": "直角内牙弯头",
+      "title": "直角内丝弯头",
       "src": "picture/pipe/941105005071.png"
     },
     {
@@ -91,6 +91,14 @@
     {
       "title": "管卡PT型",
       "src": "picture/pipe/640005005090.png"
+    },
+    {
+      "title": "管卡PT型（带膨胀螺栓）",
+      "src": "picture/pipe/640005005099.png"
+    },
+    {
+      "title": "管卡PT型（带螺纹）",
+      "src": "picture/pipe/640005005093.png"
     },
     {
       "title": "管卡HJ型",

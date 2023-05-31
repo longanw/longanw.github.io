@@ -1,72 +1,80 @@
 {
   "lists": [
     {
-      "title": "异径直通",
+      "title": "异径直通（承插焊）",
       "src": "picture/pipe/944405003210.png"
     },
     {
-      "title": "内牙直通",
+      "title": "内丝直通（承插焊）",
       "src": "picture/pipe/944405005011.png"
     },
     {
-      "title": "外牙直通",
+      "title": "外丝直通（承插焊）",
       "src": "picture/pipe/944405005013.png"
     },
     {
-      "title": "外牙活接",
+      "title": "外丝活接",
       "src": "picture/pipe/944405005083.png"
     },
     {
-      "title": "等径三通",
+      "title": "等径三通（承插焊）",
       "src": "picture/pipe/944405005030.png"
     },
     {
-      "title": "中小异径三通",
+      "title": "中小异径三通（承插焊）",
       "src": "picture/pipe/944405003230.png"
     },
     {
-      "title": "中大异径三通",
+      "title": "中大异径三通（承插焊）",
       "src": "picture/pipe/944403205030.png"
     },
     {
-      "title": "内牙三通",
-      "src": "picture/pipe/944405005031.png"
+      "title": "异径内丝三通（承插焊）",
+      "src": "picture/pipe/944405003231.png"
     },
     {
-      "title": "外牙三通",
-      "src": "picture/pipe/944405005033.png"
+      "title": "异径外丝三通（承插焊）",
+      "src": "picture/pipe/944405003233.png"
     },
     {
-      "title": "等径四通",
+      "title": "等径四通（承插焊）",
       "src": "picture/pipe/944405005040.png"
     },
     {
-      "title": "异径四通",
+      "title": "异径四通（承插焊）",
       "src": "picture/pipe/944403205040.png"
     },
     {
-      "title": "45°弯头",
+      "title": "45°弯头（承插焊）",
       "src": "picture/pipe/944405005050.png"
     },
     {
-      "title": "90°弯头",
+      "title": "90°弯头（承插焊）",
       "src": "picture/pipe/944405005090.png"
     },
     {
-      "title": "内牙弯头",
+      "title": "内丝弯头（承插焊）",
       "src": "picture/pipe/944405005091.png"
     },
     {
-      "title": "内牙短弯头",
-      "src": "picture/pipe/944405005071.png"
+      "title": "内丝短弯头（承插焊）",
+      "src": "picture/pipe/944405005092.png"
     },
     {
-      "title": "外牙弯头",
+      "title": "外丝短弯头（承插焊）",
+      "src": "picture/pipe/944405005094.png"
+    },
+    {
+      "title": "外丝弯头（承插焊）",
       "src": "picture/pipe/944405005093.png"
     },
     {
-      "title": "异径短弯头",
-      "src": "picture/pipe/944405003277.png"
+      "title": "短弯头（承插焊）",
+      "src": "picture/pipe/944405005098.png"
+    },
+    {
+      "title": "异径短弯头（承插焊）",
+      "src": "picture/pipe/944405003298.png"
     }
     ]
 }
