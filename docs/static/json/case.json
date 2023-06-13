@@ -1,6 +1,14 @@
 {
   "lists": [
       {
+        "number": "23",
+        "src": "picture/case/case-sz-pengxiyuan.png",
+        "title": "鹏溪苑",
+        "date": "2023-06",
+        "description": "&emsp;&emsp;分区共配置三套泵组，水泵均为二用一备组合，316L不锈钢管件",
+        "text": "&emsp;&emsp;316L不锈钢给水管、沟槽管件、法兰管件、卡压管件等。"
+  		},
+      {
         "number": "22",
         "src": "picture/case/case-sz-longguangtianjing.png",
         "title": "前海龙光天镜",
