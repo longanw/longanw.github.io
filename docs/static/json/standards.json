@@ -2,217 +2,217 @@
   "lists": [
     {
       "pic": "picture/std/GBT33926-2017_cover.jpg",
-      "src": "std%2F181620f318404829f16a79e05a34bffe.pdf",
+      "filename": "181620f318404829f16a79e05a34bffe",
       "title": "GB/T 33926-2017《不锈钢环压式管件》"
         },
     {
       "pic": "picture/std/GBT29038-2012_cover.jpg",
-      "src": "std%2F0494e2cda38f8ac38c671b15bc3e7c41.pdf",
+      "filename": "0494e2cda38f8ac38c671b15bc3e7c41",
       "title": "GB/T 29038-2012《薄壁不锈钢管道技术规范》"
         },
     {
       "pic": "picture/std/GBT19228.3-2012_cover.jpg",
-      "src": "std%2F9dae34b91352802660705caff814229f.pdf",
+      "filename": "9dae34b91352802660705caff814229f",
       "title": "GB/T 19228.3-2012《不锈钢卡压式管件组件 第3部分 O型橡胶密封圈》"
         },
     {
       "pic": "picture/std/GBT19228.2-2011_cover.jpg",
-      "src": "std%2F49bbeafb35c76da2b3d86162e5378e2a.pdf",
+      "filename": "49bbeafb35c76da2b3d86162e5378e2a",
       "title": "GB/T 19228.2-2011《不锈钢卡压式管件组件 第2部分 连接用薄壁不锈钢管》"
 		},
     {
       "pic": "picture/std/GBT19228.1-2011_cover.jpg",
-      "src": "std%2Fac901042db6edd667168ff8c157a2e9f.pdf",
+      "filename": "ac901042db6edd667168ff8c157a2e9f",
       "title": "GB/T 19228.1-2011《不锈钢卡压式管件组件 第1部分 卡压式管件》"
 		},
     {
       "pic": "picture/std/GBT12771-2019_cover.jpg",
-      "src": "std%2F9826df1ba0e37da4a467a29411cfb770.pdf",
+      "filename": "9826df1ba0e37da4a467a29411cfb770",
       "title": "GB/T 12771-2019《流体输送用不锈钢焊接钢管》"
         },
     {
       "pic": "picture/std/DB32T761-2022_cover.jpg",
-      "src": "std%2Fd06e4a914bbf9362ca65a53a8c450c5a.pdf",
+      "filename": "d06e4a914bbf9362ca65a53a8c450c5a",
       "title": "DB 32/T 761-2022《生活饮用水管道分质直饮水卫生规范》"
 	        },
     {
       "pic": "picture/std/YBT4204-2020_cover.jpg",
-      "src": "std%2F58ff7acf5dbf5278417356986b39e33d.pdf",
+      "filename": "58ff7acf5dbf5278417356986b39e33d",
       "title": "YB/T 4204-2020《供水用不锈钢焊接钢管》"
 	        },
     {
       "pic": "picture/std/GB55020-2021_cover.jpg",
-      "src": "std%2F6c972b431b4ba15d4ea9eec70e5f450f.pdf",
+      "filename": "6c972b431b4ba15d4ea9eec70e5f450f",
       "title": "GB 55020-2021《建筑给排水与节水通用规范》"
 	        },
     {
       "pic": "picture/std/GB50015-2019_cover.jpg",
-      "src": "std%2F5780f972873e72a7d50ddbb4a51d1ad9.pdf",
+      "filename": "5780f972873e72a7d50ddbb4a51d1ad9",
       "title": "GB 50015-2019《建筑给水排水设计标准》"
         },
     {
       "pic": "picture/std/GBT50378-2019_cover.jpg",
-      "src": "std%2Fbb5f571ce50456b895bf11fe2f266baa.pdf",
+      "filename": "bb5f571ce50456b895bf11fe2f266baa",
       "title": "GB/T 50378-2019《绿色建筑评价标准》"
         },
     {
       "pic": "picture/std/GBT36019-2018_cover.jpg",
-      "src": "std%2F6ca9800937cf40f9b5f7493908eeb1df.pdf",
+      "filename": "6ca9800937cf40f9b5f7493908eeb1df",
       "title": "GB/T 36019-2018《沟槽式管路连接件技术规范》"
 	        },
     {
       "pic": "picture/std/GBT12459-2017_cover.jpg",
-      "src": "std%2F659a6d388ab0a2e1b4fcab940aa75fd6.pdf",
+      "filename": "659a6d388ab0a2e1b4fcab940aa75fd6",
       "title": "GB/T 12459-2017《钢制对焊管件类型与参数》"
 		},
     {
       "pic": "picture/std/GBT13401-2017_cover.jpg",
-      "src": "std%2F05ad6d9bc9676807f854ae454d98cfd8.pdf",
+      "filename": "05ad6d9bc9676807f854ae454d98cfd8",
       "title": "GB/T 13401-2017《钢制对焊管件 技术规范》"
 		},
     {
       "pic": "picture/std/GBT24511-2017_cover.jpg",
-      "src": "std%2F27bc0aa901a04059e716eaa32180fefe.pdf",
+      "filename": "27bc0aa901a04059e716eaa32180fefe",
       "title": "GB/T 24511-2017《承压设备用不锈钢和耐热钢钢板和钢带》"
 		},
     {
       "pic": "picture/std/GBT28897-2012_cover.jpg",
-      "src": "std%2Fcee5306da641cdfe5d654a401b3cc24d.pdf",
+      "filename": "cee5306da641cdfe5d654a401b3cc24d",
       "title": "GB/T 28897-2012《钢塑复合管》"
 		},
     {
       "pic": "picture/std/GBT14976-2012_cover.jpg",
-      "src": "std%2Fa61f26f91b158c3e4027dc783043a2cc.pdf",
+      "filename": "a61f26f91b158c3e4027dc783043a2cc",
       "title": "GB/T 14976-2012《流体输送用不锈钢无缝钢管》"
 		},
     {
       "pic": "picture/std/GBT17395-2008_cover.jpg",
-      "src": "std%2F4c03c010c1140013e4b86031efe5480b.pdf",
+      "filename": "4c03c010c1140013e4b86031efe5480b",
       "title": "GB/T 17395-2008《无缝钢管尺寸、外形、重量及允许偏差》"
 		},
     {
       "pic": "picture/std/GBT3091-2015_cover.jpg",
-      "src": "std%2F7102f3dc808ab5b88af1f83b2e62b5ad.pdf",
+      "filename": "7102f3dc808ab5b88af1f83b2e62b5ad",
       "title": "GB/T 3091-2015《低压流体输送用焊接钢管》"
 	    },
     {
       "pic": "picture/std/CJJT154-2020_cover.jpg",
-      "src": "std%2F5ad145063221e09b0e9a05059c3d0757.pdf",
+      "filename": "5ad145063221e09b0e9a05059c3d0757",
       "title": "CJJ/T 154-2020《建筑给水金属管道工程技术标准》"
         },
     {
       "pic": "picture/std/CJJT110-2017_cover.jpg",
-      "src": "std%2F7984c84bf85403266378a392cb77b6a4.pdf",
+      "filename": "7984c84bf85403266378a392cb77b6a4",
       "title": "CJJ/T 110-2017《建筑与小区管道直饮水系统技术规程》"
         },
     {
       "pic": "picture/std/CJT151-2016_cover.jpg",
-      "src": "std%2F6bca2a6521b748950e5ecb228724a235.pdf",
+      "filename": "6bca2a6521b748950e5ecb228724a235",
       "title": "CJ/T 151-2016《薄壁不锈钢管》"
         },
     {
       "pic": "picture/std/CJT152-2016_cover.jpg",
-      "src": "std%2F66ab8f3ddd4968a7e42617ddaf2b4174.pdf",
+      "filename": "66ab8f3ddd4968a7e42617ddaf2b4174",
       "title": "CJ/T 152-2016《薄壁不锈钢卡压式和沟槽式管件》"
         },
     {
       "pic": "picture/std/CJT117-2018_cover.jpg",
-      "src": "std%2F7a3c9cdf2031fda342274acaacde0bf8.pdf",
+      "filename": "7a3c9cdf2031fda342274acaacde0bf8",
       "title": "CJ/T 117-2018《建筑用承插式金属管管件》"
         },
     {
       "pic": "picture/std/CJT466-2014_cover.jpg",
-      "src": "std%2F29c7e6d9a33fa9de017fd534de26ba07.pdf",
+      "filename": "29c7e6d9a33fa9de017fd534de26ba07",
       "title": "CJ/T 466-2014《燃气输送用不锈钢管及双卡压式管件》"
         },
     {
       "pic": "picture/std/GBT41317-2022_cover.jpg",
-      "src": "std%2F3c7dbc9b375266ea60f059a81f96087e.pdf",
+      "filename": "3c7dbc9b375266ea60f059a81f96087e",
       "title": "GB/T 41317-2022《燃气用具连接用不锈钢波纹软管》"
         },
     {
       "pic": "picture/std/GB5749-2022_cover.jpg",
-      "src": "std%2F7e88aeaf3c7e1551bac9e97d94556d9b.pdf",
+      "filename": "7e88aeaf3c7e1551bac9e97d94556d9b",
       "title": "GB 5749—2022《生活饮用水卫生标准》"
 		},
     {
       "pic": "picture/std/DB4403T60-2020_cover.jpg",
-      "src": "std%2Ff11bc153ddfdd78b36bedfa3be939866.pdf",
+      "filename": "f11bc153ddfdd78b36bedfa3be939866",
       "title": "DB4403T 60—2020《生活饮用水水质标准》"
         },
     {
       "pic": "picture/std/SJG16-2017_cover.jpg",
-      "src": "std%2Ffc3262445d51df30874e80ae4f69736b.pdf",
+      "filename": "fc3262445d51df30874e80ae4f69736b",
       "title": "SJG16-2017《优质饮用水工程技术规程》"
         },
     {
       "pic": "picture/std/GB4806.9-2016_cover.jpg",
-      "src": "std%2F868d6a746fcf7b7592f26908a99c30e7.pdf",
+      "filename": "868d6a746fcf7b7592f26908a99c30e7",
       "title": "GB 4806.9-2016《食品安全国家标准 食品接触用金属材料及制品》"
       },
     {
       "pic": "picture/std/QBT2467-2017_cover.jpg",
-      "src": "std%2F1fc5a4e45bd54a454d221da0339077e0.pdf",
+      "filename": "1fc5a4e45bd54a454d221da0339077e0",
       "title": "QB/T 2467-2017 《食品工业用不锈钢管》"
         },
     {
       "pic": "picture/std/YBT4513-2017_cover.jpg",
-      "src": "std%2Faf679b71fcf3fb65c04c1ea25bdb692a.pdf",
+      "filename": "af679b71fcf3fb65c04c1ea25bdb692a",
       "title": "YB/T 4513-2017《医用气体和真空用不锈钢焊接钢管》"
 	      },
     {
       "pic": "picture/std/TSG07-2019_cover.jpg",
-      "src": "std%2F6d6881ddda8c270f7d966a46ccb4a88f.pdf",
+      "filename": "6d6881ddda8c270f7d966a46ccb4a88f",
       "title": "TSG 07-2019《特种设备生产和充装单位许可规则》"
         },
     {
       "pic": "picture/std/10S407-2_cover.jpg",
-      "src": "std%2Fa7c025c737b38990ca6b59b8e446d6dc.pdf",
+      "filename": "a7c025c737b38990ca6b59b8e446d6dc",
       "title": "10S407-2《建筑给水薄壁不锈钢管道安装》(2010年版图集)"
         },
     {
       "pic": "picture/std/12S101_cover.jpg",
-      "src": "std%2F9f4cb59b7fc20597a756c00dec820d7a.pdf",
+      "filename": "9f4cb59b7fc20597a756c00dec820d7a",
       "title": "12S101《矩形给水箱》(2012年版图集)"
 	        },
     {
       "pic": "picture/std/GBT28708-2012_cover.jpg",
-      "src": "std%2Fdbeae67b1f03922d780588a162d52a48.pdf",
+      "filename": "dbeae67b1f03922d780588a162d52a48",
       "title": "GB/T 28708-2012《管道工程用无缝及焊接钢管尺寸选用规定》"
         },
     {
       "pic": "picture/std/GBT21835-2008_cover.jpg",
-      "src": "std%2F72a26f5c68ca85e1d5b1389c90c5c249.pdf",
+      "filename": "72a26f5c68ca85e1d5b1389c90c5c249",
       "title": "GB/T 21835-2008《焊接钢管尺寸及单位长度重量》"
         },
     {
       "pic": "picture/std/GBT9119-2010_cover.jpg",
-      "src": "std%2F57d22e2f90f03d778912b032b132c681.pdf",
+      "filename": "57d22e2f90f03d778912b032b132c681",
       "title": "GB/T 9119-2010《板式平焊钢制管法兰》"
         },
     {
       "pic": "picture/std/GBT196-2003_cover.jpg",
-      "src": "std%2Fc507a3dccd2fb043d74ab722d014a018.pdf",
+      "filename": "c507a3dccd2fb043d74ab722d014a018",
       "title": "GB/T 196-2003《普通螺纹 基本尺寸》"
 	        },
     {
       "pic": "picture/std/GBT32569-2016_cover.jpg",
-      "src": "std%2F6611c1251b062184e19adeac4e5a1d0c.pdf",
+      "filename": "6611c1251b062184e19adeac4e5a1d0c",
       "title": "GB/T 32569-2016《海水淡化装置用不锈钢焊接钢管》"
         },
     {
       "pic": "picture/std/GB24512.3-2014_cover.jpg",
-      "src": "std%2Fd13644a3f51cbf71b3918c5b77dbea64.pdf",
+      "filename": "d13644a3f51cbf71b3918c5b77dbea64",
       "title": "GB 24512.3-2014《核电站用无缝钢管 第3部分：不锈钢无缝钢管》"
         },
     {
       "pic": "picture/std/GB30813-2014_cover.jpg",
-      "src": "std%2Fc39f89eef4ceb7730cb8924f91078011.pdf",
+      "filename": "c39f89eef4ceb7730cb8924f91078011",
       "title": "GB 30813-2014《核电站用奥氏体不锈钢焊接钢管》"
         },
     {
       "pic": "picture/std/GB50265-2022_cover.jpg",
-      "src": "std%2Fa0e366e1237b345d7a7ddd94f703ec51.pdf",
+      "filename": "a0e366e1237b345d7a7ddd94f703ec51",
       "title": "GB 50265-2022《泵站设计标准》"
         }
     ]
