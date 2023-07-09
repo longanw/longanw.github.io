@@ -33,8 +33,7 @@
     <iframe id="pdfContainer" src=""></iframe>
   </div>
 </body>
-<script src="static/js/libs/jquery.min.js"></script>
-<script src="static/js/layout.js"></script>
+<script src="static/js/pdfviewer.min.js"></script>
 <script>
   var params = location.href.substring(location.href.lastIndexOf('?') + 1).replace('&', '/');
   document.getElementById('pdfContainer').src = getFile('', params);
