@@ -1,60 +1,76 @@
 {
   "lists": [
-      {
-        "number": "23",
-        "src": "picture/case/case-sz-pengxiyuan.png",
-        "title": "鹏溪苑",
-        "date": "2023-06",
-        "description": "&emsp;&emsp;分区共配置三套泵组，水泵均为二用一备组合，316L不锈钢管件",
-        "text": "&emsp;&emsp;316L不锈钢给水管、沟槽管件、法兰管件、卡压管件等。"
+    {
+      "number": "25",
+      "src": "picture/case/case-cq-tianxi.jpg",
+      "title": "照母山天玺别墅",
+      "date": "2023-06",
+      "description": "&emsp;&emsp;家装用304覆塑不锈钢卡压管材和管件",
+      "text": "&emsp;&emsp;304覆塑不锈钢管材、卡压管件，球阀等。"
+        },
+    {
+      "number": "24",
+      "src": "picture/case/case-sz-pengxiyuan.png",
+      "title": "鹏溪苑",
+      "date": "2023-06",
+      "description": "&emsp;&emsp;分区共配置三套泵组，水泵均为二用一备组合，316L不锈钢管件",
+      "text": "&emsp;&emsp;316L不锈钢给水管、沟槽管件、法兰管件、卡压管件等。"
   		},
-      {
-        "number": "22",
-        "src": "picture/case/case-sz-longguangtianjing.png",
-        "title": "前海龙光天镜",
-        "date": "2023-06",
-        "description": "&emsp;&emsp;分区共配置四套泵组，水泵均为二用一备组合，316L不锈钢管件",
-        "text": "&emsp;&emsp;316L不锈钢给水管、沟槽管件、法兰管件、卡压管件等。"
+    {
+      "number": "23",
+      "src": "picture/case/case-sz-longguangtianjing.png",
+      "title": "前海龙光天镜",
+      "date": "2023-06",
+      "description": "&emsp;&emsp;分区共配置四套泵组，水泵均为二用一备组合，316L不锈钢管件",
+      "text": "&emsp;&emsp;316L不锈钢给水管、沟槽管件、法兰管件、卡压管件等。"
   		},
-      {
-        "number": "21",
-        "src": "picture/case/case-sz-dayuecheng.jpg",
-        "title": "中粮大悦广场",
-        "date": "2023-06",
-        "description": "&emsp;&emsp;低中高区各配置一套泵组，水泵均为三用一备组合，316L不锈钢管件",
-        "text": "&emsp;&emsp;316L不锈钢给水管、沟槽管件、法兰管件、卡压管件等。"
+    {
+      "number": "22",
+      "src": "picture/case/case-sz-dayuecheng.jpg",
+      "title": "中粮大悦广场",
+      "date": "2023-06",
+      "description": "&emsp;&emsp;低中高区各配置一套泵组，水泵均为三用一备组合，316L不锈钢管件",
+      "text": "&emsp;&emsp;316L不锈钢给水管、沟槽管件、法兰管件、卡压管件等。"
   		},
-      {
-        "number": "20",
-        "src": "picture/case/case-zs-mingyang.jpg",
-        "title": "明阳智慧能源集团总部基地",
-        "date": "2023-04",
-        "description": "&emsp;&emsp;沟槽、卡压管材和管件",
-        "text": "&emsp;&emsp;316L不锈钢给水管、沟槽管件、法兰管件、卡压管件等。"
+    {
+      "number": "21",
+      "src": "picture/case/case-zs-mingyang.jpg",
+      "title": "明阳智慧能源集团总部基地",
+      "date": "2023-04",
+      "description": "&emsp;&emsp;沟槽、卡压管材和管件",
+      "text": "&emsp;&emsp;316L不锈钢给水管、沟槽管件、法兰管件、卡压管件等。"
   		},
-      {
-        "number": "19",
-        "src": "picture/case/case-gz-huocun.jpg",
-        "title": "火村项目",
-        "date": "2023-01",
-        "description": "&emsp;&emsp;沟槽、卡压管材和管件",
-        "text": "&emsp;&emsp;316L不锈钢给水管、沟槽管件、法兰管件、卡压管件等。"
+    {
+      "number": "20",
+      "src": "picture/case/case-gz-huocun.jpg",
+      "title": "火村项目",
+      "date": "2023-01",
+      "description": "&emsp;&emsp;沟槽、卡压管材和管件",
+      "text": "&emsp;&emsp;316L不锈钢给水管、沟槽管件、法兰管件、卡压管件等。"
   		},
-      {
-        "number": "18",
-        "src": "picture/case/case-hz-zuoyoujiaju.jpg",
-        "title": "左右家居（惠州二期）",
-        "date": "2022-12",
-        "description": "&emsp;&emsp;水泵房沟槽、卡压管材和管件",
-        "text": "&emsp;&emsp;水泵房用304不锈钢给水管、沟槽管件、法兰管件、卡压管件等。"
+    {
+      "number": "19",
+      "src": "picture/case/case-sz-longxiangyuan.jpg",
+      "title": "龙祥苑",
+      "date": "2022-12",
+      "description": "&emsp;&emsp;装配一体式水箱",
+      "text": "&emsp;&emsp;水泵房316L不锈钢装配一体式水箱及附件。"
   		},
-      {
-        "number": "17",
-        "src": "picture/case/case-gz-kangrenxuexiao.jpg",
-        "title": "南沙港人子弟学校",
-        "date": "2022-06",
-        "description": "&emsp;&emsp;J1、J2区各配置一套“二用一备”组合泵组，304不锈钢管件",
-        "text": "&emsp;&emsp;主进水管为DN200不锈钢管，进出水连通管均采用沟槽连接，按水流方向，进水段依次为DN150平顶吸支管、闸阀、软接头和DN150×DN100偏心大小头，出水段依次为DN150×DN100同心大小弯头/DN100弯头、软接头、闸阀、DN150/DN100中心吸支管和DN200/DN150出水连通管。"
+    {
+      "number": "18",
+      "src": "picture/case/case-hz-zuoyoujiaju.jpg",
+      "title": "左右家居（惠州二期）",
+      "date": "2022-12",
+      "description": "&emsp;&emsp;水泵房沟槽、卡压管材和管件",
+      "text": "&emsp;&emsp;水泵房用304不锈钢给水管、沟槽管件、法兰管件、卡压管件等。"
+  		},
+    {
+      "number": "17",
+      "src": "picture/case/case-gz-kangrenxuexiao.jpg",
+      "title": "南沙港人子弟学校",
+      "date": "2022-06",
+      "description": "&emsp;&emsp;J1、J2区各配置一套“二用一备”组合泵组，304不锈钢管件",
+      "text": "&emsp;&emsp;主进水管为DN200不锈钢管，进出水连通管均采用沟槽连接，按水流方向，进水段依次为DN150平顶吸支管、闸阀、软接头和DN150×DN100偏心大小头，出水段依次为DN150×DN100同心大小弯头/DN100弯头、软接头、闸阀、DN150/DN100中心吸支管和DN200/DN150出水连通管。"
   		},
     {
       "number": "16",
