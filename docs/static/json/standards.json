@@ -29,22 +29,22 @@
       "pic": "picture/std/GBT12771-2019_cover.jpg",
       "filename": "9826df1ba0e37da4a467a29411cfb770",
       "title": "GB/T 12771-2019《流体输送用不锈钢焊接钢管》"
-        },
+      },
     {
       "pic": "picture/std/DB32T761-2022_cover.jpg",
       "filename": "d06e4a914bbf9362ca65a53a8c450c5a",
       "title": "DB 32/T 761-2022《生活饮用水管道分质直饮水卫生规范》"
-	        },
+	   },
     {
       "pic": "picture/std/YBT4204-2020_cover.jpg",
       "filename": "58ff7acf5dbf5278417356986b39e33d",
       "title": "YB/T 4204-2020《供水用不锈钢焊接钢管》"
-	        },
+	   },
     {
       "pic": "picture/std/GB55020-2021_cover.jpg",
       "filename": "6c972b431b4ba15d4ea9eec70e5f450f",
       "title": "GB 55020-2021《建筑给排水与节水通用规范》"
-	        },
+	   },
     {
       "pic": "picture/std/GB50015-2019_cover.jpg",
       "filename": "5780f972873e72a7d50ddbb4a51d1ad9",
@@ -59,7 +59,7 @@
       "pic": "picture/std/GBT36019-2018_cover.jpg",
       "filename": "6ca9800937cf40f9b5f7493908eeb1df",
       "title": "GB/T 36019-2018《沟槽式管路连接件技术规范》"
-	        },
+	    },
     {
       "pic": "picture/std/GBT12459-2017_cover.jpg",
       "filename": "659a6d388ab0a2e1b4fcab940aa75fd6",
@@ -174,7 +174,7 @@
       "pic": "picture/std/12S101_cover.jpg",
       "filename": "9f4cb59b7fc20597a756c00dec820d7a",
       "title": "12S101《矩形给水箱》(2012年版图集)"
-	        },
+	   },
     {
       "pic": "picture/std/GBT28708-2012_cover.jpg",
       "filename": "dbeae67b1f03922d780588a162d52a48",
@@ -191,10 +191,20 @@
       "title": "GB/T 9119-2010《板式平焊钢制管法兰》"
         },
     {
+      "pic": "picture/std/GBT1047-2019_cover.jpg",
+      "filename": "8075e37eea98162b05fa3dd4cddd763e",
+      "title": "GB/T 1047-2019《管道元件 公称尺寸的定义和选用》"
+	    },
+    {
+      "pic": "picture/std/GBT1048-2019_cover.jpg",
+      "filename": "9b8f819fe4beac9ddaba789dad987d57",
+      "title": "GB/T 1048-2019《管道元件 公称压力的定义和选用》"
+		},
+    {
       "pic": "picture/std/GBT196-2003_cover.jpg",
       "filename": "c507a3dccd2fb043d74ab722d014a018",
       "title": "GB/T 196-2003《普通螺纹 基本尺寸》"
-	        },
+	     },
     {
       "pic": "picture/std/GBT32569-2016_cover.jpg",
       "filename": "6611c1251b062184e19adeac4e5a1d0c",
@@ -209,7 +219,7 @@
       "pic": "picture/std/GB50316-2000_cover.jpg",
       "filename": "aec83639336f4abf8a2b2662267a2a6d",
       "title": "GB 50316-2000《工业金属管道设计规范》（2008年版）"
-    },
+        },
     {
       "pic": "picture/std/GB30813-2014_cover.jpg",
       "filename": "c39f89eef4ceb7730cb8924f91078011",
