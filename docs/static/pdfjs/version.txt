@@ -1,1 +1,1 @@
-pdfjs-3.3.122-legacy
+pdfjs-4.0.379
