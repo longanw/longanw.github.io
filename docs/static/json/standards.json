@@ -191,6 +191,11 @@
       "title": "GB/T 9119-2010《板式平焊钢制管法兰》"
         },
     {
+      "pic": "picture/std/HGT20592-2009_cover.jpg",
+      "filename": "2ec029a811fe9e8c8f3ce105d13b7f6e",
+      "title": "HG/T 20592-2009《钢制管法兰（PN系列）》"
+	        },
+    {
       "pic": "picture/std/GBT1047-2019_cover.jpg",
       "filename": "8075e37eea98162b05fa3dd4cddd763e",
       "title": "GB/T 1047-2019《管道元件 公称尺寸的定义和选用》"
@@ -224,6 +229,11 @@
       "pic": "picture/std/GB30813-2014_cover.jpg",
       "filename": "c39f89eef4ceb7730cb8924f91078011",
       "title": "GB 30813-2014《核电站用奥氏体不锈钢焊接钢管》"
+        },
+    {
+      "pic": "picture/std/GBT16693-1996_cover.jpg",
+      "filename": "5300ebc86c91c3dcda488725e02efed6",
+      "title": "GB/T 16693-1996《软管快速接头》"
         },
     {
       "pic": "picture/std/GB50265-2022_cover.jpg",
