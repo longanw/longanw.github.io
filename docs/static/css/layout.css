@@ -1725,10 +1725,10 @@ div.spinner i:nth-child(8) {
 
 /*页面倾斜*/
 .incline {
-  -webkit-transform: rotate(-2deg);
-  -moz-transform: rotate(-2deg);
-  -ms-transform: rotate(-2deg);
-  -o-transform: rotate(-2deg);
+  -webkit-transform: rotate(-1deg);
+  -moz-transform: rotate(-1deg);
+  -ms-transform: rotate(-1deg);
+  -o-transform: rotate(-1deg);
 }
 
 /*日历样式*/

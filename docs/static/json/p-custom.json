@@ -3,14 +3,10 @@
     {
       "title": "异径四通（定制）",
       "src": "picture/pipe/961106502540.png"
-      },
+    },
     {
       "title": "异径三通（定制）",
       "src": "picture/pipe/961106505030.png"
-      },
-    {
-      "title": "法兰片",
-      "src": "picture/pipe/640010010008.png"
     },
     {
       "title": "异形件",
@@ -21,16 +17,24 @@
       "src": "picture/pipe/940015000050.png"
     },
     {
-      "title": "外丝对接",
-      "src": "picture/pipe/640005005014.png"
+      "title": "法兰短接头",
+      "src": "picture/pipe/940010010018.png"
     },
     {
       "title": "法兰大小头",
       "src": "picture/pipe/940005003218.png"
     },
     {
+      "title": "法兰大小短接头",
+      "src": "picture/pipe/940010008018.png"
+    },
+    {
       "title": "法兰直通",
       "src": "picture/pipe/940005005018.png"
+    },
+    {
+      "title": "法兰三通",
+      "src": "picture/pipe/940010010038.png"
     },
     {
       "title": "活动法兰三通",
